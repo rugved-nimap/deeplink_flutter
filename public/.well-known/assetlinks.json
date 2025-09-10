@@ -2,11 +2,12 @@
     {
       "relation": ["delegate_permission/common.handle_all_urls"],
       "target": {
-        "namespace": "com.rugved.deeplink.deeplinking",
-        "package_name": "com.rugved.deeplink.deeplinking",
+        "namespace": "com.nimap.demo",
+        "package_name": "com.nimap.demo",
         "sha256_cert_fingerprints": [
           "F8:33:7B:35:61:26:C1:CF:9E:9F:D7:61:54:FD:10:4C:76:87:05:62:9E:6E:CF:12:F0:E9:E8:73:AF:8C:6E:B2",
-          "B9:81:11:BD:0B:D7:03:B5:E7:07:1F:95:7B:73:11:34:79:C8:09:B2:65:E0:53:6B:A8:B3:55:B8:D2:44:2B:1D"
+          "B9:81:11:BD:0B:D7:03:B5:E7:07:1F:95:7B:73:11:34:79:C8:09:B2:65:E0:53:6B:A8:B3:55:B8:D2:44:2B:1D",
+          "63:4E:49:7B:D1:94:41:4B:6F:B3:91:AA:BF:7B:40:F4:79:3A:EF:EE:29:24:E1:32:09:0D:38:3F:51:F0:A1:DE"
         ]
       }
     }
